@@ -16,10 +16,25 @@
     <Filter Include="소스 파일\day1">
       <UniqueIdentifier>{31b7169a-4011-4ed5-9028-511f2e8daaa3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day2">
+      <UniqueIdentifier>{d915dfc7-8d77-4a4c-b24b-96fcd7b46bf9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hello.c">
       <Filter>소스 파일\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="기본구조.c">
+      <Filter>소스 파일\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="영어다이아몬드.c">
+      <Filter>소스 파일\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="변수.c">
+      <Filter>소스 파일\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="변수의축력.c">
+      <Filter>소스 파일\day2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
