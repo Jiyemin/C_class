@@ -6,7 +6,7 @@ int main(void)
 	// %d ; long ( 부호 있는 10진 정수 )
 	//%lld ; long long ( 부호 있는 10진 정수 )
 	//%u ; unsigend int( 부호 없는 10진 정수 )
-	//%f ; float ( 10진수 방식의 부동소수점 정수 )
+	//%f ; float ( 10진수 방식의 부동소수점 실수 )
 	//%x ; float,double
 	//%lf ; long double, double
 	//%c ; char , short , int ( 값에 대응하는 문자 )
