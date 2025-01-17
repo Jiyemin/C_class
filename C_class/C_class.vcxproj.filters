@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\day6">
       <UniqueIdentifier>{f60d7e67-92f9-4d80-82b4-2ae201e5a65a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\dya8">
+      <UniqueIdentifier>{a1765049-8ce6-4686-8660-1cb6d40a5751}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hello.c">
@@ -95,6 +98,18 @@
     </ClCompile>
     <ClCompile Include="비트단위연산자.c">
       <Filter>소스 파일\day6</Filter>
+    </ClCompile>
+    <ClCompile Include="배송비용.c">
+      <Filter>소스 파일\dya8</Filter>
+    </ClCompile>
+    <ClCompile Include="선택문.c">
+      <Filter>소스 파일\dya8</Filter>
+    </ClCompile>
+    <ClCompile Include="switch계산기.c">
+      <Filter>소스 파일\dya8</Filter>
+    </ClCompile>
+    <ClCompile Include="반복문weall.c">
+      <Filter>소스 파일\dya8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
